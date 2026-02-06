@@ -10,7 +10,7 @@
 
 ### 📫 Reach me
 - **Discord:** projectilegravity  
-
+https://dontasktoask.com/
 ---
 
 ### 🖥️ My PC
