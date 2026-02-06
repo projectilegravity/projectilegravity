@@ -30,8 +30,3 @@ https://dontasktoask.com/
 - <img src="https://img.shields.io/badge/IDA%20Hex-Rays-lightgrey?style=for-the-badge" />
 
 ---
-
-### 📦 Focus
-- Memory analysis  
-- Game reversing  
-- Fortnite research  
